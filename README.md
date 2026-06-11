@@ -396,7 +396,7 @@ github.com/sudowota/[projektname]
 
 ---
 
-## Die wichtigste Regel
+## Eine letzte Regel
 
 > **Nie mehr als 5 aktive Issues gleichzeitig.**  
 > Alles andere lebt im Linear Backlog — aus den Augen, aus dem Kopf, aber nicht verloren.
