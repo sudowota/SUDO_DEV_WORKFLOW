@@ -67,7 +67,8 @@ WOTA Idea Vault/
 
 > Einmalig pro Projekt. Bevor eine einzige Zeile Code geschrieben wird.
 
-**Wo:** Notion — neue Projektseite
+**Wo:** Notion, Linear, Ablage
+-> SetUp.md, Read me, Linear Projekt generieren.
 
 **Vorlage:**
 ```
